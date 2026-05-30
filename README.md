@@ -19,5 +19,5 @@ Sou um Desenvolvedor Fullstack em formação e estudante de Desenvolvimento de S
 ---
 
 ### 📫 Como me encontrar:
-- **LinkedIn:** [linkedin.com/in/guilherme-vinicius-105a9a349](https://linkedin.com/in/guilherme-vinicius-105a9a349)
+- **LinkedIn:** [www.linkedin.com/in/guilhermebaeza243)
 - **E-mail:** glhrmbaeza@gmail.com
