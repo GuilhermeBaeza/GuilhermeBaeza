@@ -1,4 +1,4 @@
-# Olá, eu sou o Guilherme Baeza! 👋
+# Olá, eu sou o Guilherme Vinícius Baeza de Oliveira! 👋
 
 Sou um Desenvolvedor Fullstack em formação e estudante de Desenvolvimento de Software Multiplataforma na Fatec Votorantim. Atualmente, concilio meus estudos com a experiência prática em suporte de TI corporativo e foco no aprendizado de arquitetura de software e inteligência artificial.
 
