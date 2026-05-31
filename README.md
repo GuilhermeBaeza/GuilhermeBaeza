@@ -46,8 +46,8 @@ Plataforma web B2B fullstack voltada a conectar pequenos produtores rurais diret
 
 #### 📸 Demonstração das Telas:
 <div align="center">
-  <!-- Substitua o link abaixo pela URL do print quando você subir a imagem no repositório -->
-  <img src="https://github.com/user-attachments/assets/a1e15c44-4e21-4bdf-a951-51a101f39275" alt="Dashboard Raiz Conecta" width="20%">
+  <img width="1267" height="568" alt="image" src="https://github.com/user-attachments/assets/ba525c26-c602-4f7f-bee5-385f38b5df24" /> 
+  alt="Dashboard Raiz Conecta" width="20%">
 </div>
 
 ---
