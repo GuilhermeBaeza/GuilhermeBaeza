@@ -8,9 +8,9 @@ Sou um Desenvolvedor Fullstack em formação e estudante de Desenvolvimento de S
 
 🚀 **Sobre mim:**
 - 🎓 **Educação:** Tecnólogo em Desenvolvimento de Software Multiplataforma (Fatec Votorantim - 3º Semestre).
-- 💼 **Atuação:** Atuando na área de infraestrutura e suporte técnico de TI na Alpina Têxtil[cite: 1].
-- 🧠 **Foco:** Focado em aprofundar conhecimentos em Engenharia de Software, APIs REST, Microsserviços e Engenharia de Prompts aplicados à programação[cite: 1].
-- ✍️ **Curiosidade:** Fora das telas de código, sou autor de um livro de ficção de 327 páginas, o que me ensinou muito sobre disciplina e consistência em projetos de longo prazo[cite: 1].
+- 💼 **Atuação:** Atuando na área de infraestrutura e suporte técnico de TI na Alpina Têxtil.
+- 🧠 **Foco:** Focado em aprofundar conhecimentos em Engenharia de Software, APIs REST, Microsserviços e Engenharia de Prompts aplicados à programação.
+- ✍️ **Curiosidade:** Fora das telas de código, sou autor de um livro de ficção de 327 páginas, o que me ensinou muito sobre disciplina e consistência em projetos de longo prazo.
 
 ---
 
@@ -42,12 +42,15 @@ Sou um Desenvolvedor Fullstack em formação e estudante de Desenvolvimento de S
 ## 📌 Projeto em Destaque
 
 ### 🌾 [Raiz Conecta](https://github.com/GuilhermeBaeza/Raiz-Conecta-DSM-3SEM)
-Plataforma web B2B fullstack voltada a conectar pequenos produtores rurais diretamente a mercados locais, desenvolvida em equipe utilizando microsserviços e práticas ágeis[cite: 1].
+Plataforma web B2B fullstack voltada a conectar pequenos produtores rurais diretamente a mercados locais, desenvolvida em equipe utilizando microsserviços e práticas ágeis.
 
-#### 📸 Demonstração das Telas:
+🔗 **Link do Projeto no ar:** [raiz-conecta-qa94.vercel.app](https://raiz-conecta-qa94.vercel.app/)
+
+#### 📸 Demonstração das Telas (Clique na imagem para acessar o sistema):
 <div align="center">
-  <img width="1267" height="568" alt="image" src="https://github.com/user-attachments/assets/ba525c26-c602-4f7f-bee5-385f38b5df24"
-  alt="Dashboard Raiz Conecta" width="20%">
+  <a href="https://raiz-conecta-qa94.vercel.app/" target="_blank">
+    <img width="1267" height="568" alt="Dashboard Raiz Conecta" src="https://github.com/user-attachments/assets/ba525c26-c602-4f7f-bee5-385f38b5df24" width="100%">
+  </a>
 </div>
 
 ---
